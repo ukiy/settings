@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/lmiogohnt/.vim'
+let g:netrw_dirhist_2='/Users/lmiogohnt/Tex/ester'
+let g:netrw_dirhist_3='/Users/lmiogohnt/C/AOJ/Volume0'
+let g:netrw_dirhist_4='/Users/lmiogohnt/C/practice'
+let g:netrw_dirhist_5='/Users/lmiogohnt/Pictures/キャリア'
+let g:netrw_dirhist_6='/Users/lmiogohnt/.rbenv'
+let g:netrw_dirhist_7='/Users/lmiogohnt/Documents/Astra/workspace/AX38Connect/modules/laevatein/Laevatein/gradle'
+let g:netrw_dirhist_8='/Users/lmiogohnt/Downloads/ensyu/04'
+let g:netrw_dirhist_9='/Users/lmiogohnt/JavaScript/express_login_session/login/views'
