@@ -178,6 +178,7 @@ esac
 
 export PATH=$PATH:/Applications/sdk/platform-tools:/opt/local/bin:/opt/local/sbin:$HOME/.rbenv/shims:/usr/local/git/bin
 export PATH="$HOME/.node/bin:$PATH:$HOME/bin"
+export PATH="$PATH:$HOME/Library/Python/2.7/bin"
 export TERM=xterm-256color
 
 ### Added by the Heroku Toolbelt

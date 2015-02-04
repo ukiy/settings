@@ -64,7 +64,7 @@ endif
   NeoBundle 'kana/vim-textobj-syntax.git'
 
   " vim-textobj-plugins : いろんなものをtext-objectにする
-  NeoBundle 'thinca/vim-textobj-plugins.git'
+  "NeoBundle 'thinca/vim-textobj-plugins.git'
 
   " vim-textobj-lastpat : 最後に検索されたパターンをtext-objectに
   " NeoBundle 'kana/vim-textobj-lastpat.git'
@@ -287,7 +287,10 @@ endif
   NeoBundle 'tpope/vim-fugitive'
 
   " ステータスラインをカッコよくする
-  NeoBundle 'Lokaltog/vim-powerline'
+  ""NeoBundle 'Lokaltog/vim-powerline'
+    NeoBundle 'alpaca-tc/alpaca_powertabline'
+    NeoBundle 'Lokaltog/powerline',  { 'rtp' : 'powerline/bindings/vim'}
+    NeoBundle 'Lokaltog/powerline-fontpatcher'
 
   " A framework to read/write fake:path
   NeoBundle 'kana/vim-metarw'

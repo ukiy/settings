@@ -1,0 +1,4 @@
+"set laststatus=2
+"set rtp+=~/.vim/bundle/powerline/powerline/bindings/vim
+"let g:Powerline_symbols = 'compatible'
+"set noshowmode

@@ -27,6 +27,7 @@ source ~/settings/.vimrc.encoding
 source ~/settings/.vimrc.misc
 "プラグインに依存するアレ
 "source ~/settings/.vimrc.plugins_setting
+source ~/settings/.vimrc.local
 
 "Vimでgitのログをきれいに表示する - derisの日記
 "  http://deris.hatenablog.jp/entry/2013/05/10/003430
