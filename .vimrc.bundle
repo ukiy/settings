@@ -328,7 +328,7 @@ endif
 " NeoBundle 'gmarik/vundle'
   NeoBundle 'vim-css3-syntax'
   NeoBundle 'vim-javascript'
-  NeoBundle 'html5.vim'
+  "NeoBundle 'html5.vim'
 
 call neobundle#end()
 filetype plugin indent on

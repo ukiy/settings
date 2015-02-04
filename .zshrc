@@ -159,15 +159,15 @@ case ${OSTYPE} in
         alias ls='gls --color=auto'
         alias sftp='with-readline sftp'
         eval $(/usr/local/bin/gdircolors ~/Downloads/solarized/dircolors-solarized/dircolors.ansi-universal)
-        alias nswitch=~/.switch_proxy
+        alias nswitch='$HOME/.switch_proxy'
         if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
-        nswitch
+        #nswitch
 
         # tmux
-        alias tmux='tmuxx'
-        alias tm='tmuxx'
-        alias tma='tmux attach'
-        alias tml='tmux list-window'
+        #alias tmux='tmuxx'
+        #alias tm='tmuxx'
+        #alias tma='tmux attach'
+        #alias tml='tmux list-window'
         ;;
     linux*)
         #Linux用の設定
