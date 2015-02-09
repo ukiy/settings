@@ -80,7 +80,7 @@ endif
   " NeoBundle 'textobj-rubyblock'
 
   " vim-textobj-entire : buffer全体をtext-objectに
-  " NeoBundle 'textobj-entire'
+  NeoBundle 'textobj-entire'
 
   " 「foo」 or 【bar】などをtext-objectに
   NeoBundle 'textobj-jabraces'
@@ -224,7 +224,7 @@ endif
   "NeoBundle 'DumbBuf'
 
   " minibufexpl.vim : タブエディタ風にバッファ管理ウィンドウを表示
-  NeoBundle 'minibufexpl.vim'
+  "NeoBundle 'minibufexpl.vim'
 
   " NERDTree : ツリー型エクスプローラ
   NeoBundle 'The-NERD-tree'
@@ -272,7 +272,7 @@ endif
   NeoBundle 'L9'
 
   " Buffer管理のLibrary
-  NeoBundle 'thinca/vim-openbuf'
+  "NeoBundle 'thinca/vim-openbuf'
 
   " vimdoc 日本語
   NeoBundle 'yuroyoro/vimdoc_ja'
@@ -329,6 +329,7 @@ endif
   NeoBundle 'vim-css3-syntax'
   NeoBundle 'vim-javascript'
   "NeoBundle 'html5.vim'
+  NeoBundle 'mattn/emmet-vim'
 
 call neobundle#end()
 filetype plugin indent on
