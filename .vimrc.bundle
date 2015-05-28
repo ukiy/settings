@@ -331,5 +331,7 @@ endif
   "NeoBundle 'html5.vim'
   NeoBundle 'mattn/emmet-vim'
 
+  NeoBundle 'mxw/vim-jsx'
+
 call neobundle#end()
 filetype plugin indent on
